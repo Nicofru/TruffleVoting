@@ -2,7 +2,9 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Nicofru.github.io/TruffleVoting/",
   "dependencies": {
+    "gh-pages": "^3.2.3",
     "@openzeppelin/contracts": "^4.1.0",
     "bootstrap": "^5.0.2",
     "react": "16.11.0",
@@ -16,6 +18,8 @@
     "npm": "7.19.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
