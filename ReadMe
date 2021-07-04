@@ -1,4 +1,17 @@
-require following packages :
+require following packages:
 npm install @openzeppelin/contracts --save
+main:
 npm install @openzeppelin/test-helpers --save
+client:
 npm install react-bootstrap bootstrap
+
+Deployment:
+heroku login
+heroku git:remote -a voting-alyra
+git subtree push --prefix client/ heroku master
+
+github pages: npm run deploy
+
+Deployed at:
+https://voting-alyra.herokuapp.com/
+https://nicofru.github.io/TruffleVoting/
