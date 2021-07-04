@@ -1,3 +1,4 @@
+require following packages :
 npm install @openzeppelin/contracts --save
 npm install @openzeppelin/test-helpers --save
 npm install react-bootstrap bootstrap
