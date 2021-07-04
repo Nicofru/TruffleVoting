@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/TruffleVoting/static/css/main.b100e6da.chunk.css",
+    "main.js": "/TruffleVoting/static/js/main.efd24466.chunk.js",
+    "main.js.map": "/TruffleVoting/static/js/main.efd24466.chunk.js.map",
+    "runtime-main.js": "/TruffleVoting/static/js/runtime-main.26f0158b.js",
+    "runtime-main.js.map": "/TruffleVoting/static/js/runtime-main.26f0158b.js.map",
+    "static/css/2.86fbe410.chunk.css": "/TruffleVoting/static/css/2.86fbe410.chunk.css",
+    "static/js/2.881b3cfe.chunk.js": "/TruffleVoting/static/js/2.881b3cfe.chunk.js",
+    "static/js/2.881b3cfe.chunk.js.map": "/TruffleVoting/static/js/2.881b3cfe.chunk.js.map",
+    "index.html": "/TruffleVoting/index.html",
+    "precache-manifest.405a4b8db59ecf05e1ff6c6f239fb584.js": "/TruffleVoting/precache-manifest.405a4b8db59ecf05e1ff6c6f239fb584.js",
+    "service-worker.js": "/TruffleVoting/service-worker.js",
+    "static/css/2.86fbe410.chunk.css.map": "/TruffleVoting/static/css/2.86fbe410.chunk.css.map",
+    "static/css/main.b100e6da.chunk.css.map": "/TruffleVoting/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26f0158b.js",
+    "static/css/2.86fbe410.chunk.css",
+    "static/js/2.881b3cfe.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.efd24466.chunk.js"
+  ]
+}
